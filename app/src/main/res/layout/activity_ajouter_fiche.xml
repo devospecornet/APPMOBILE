@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ajouter_fiche"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/editMois"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:hint="@string/mois"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/editEssence"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:hint="@string/frais_essence"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/editPetitDej"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:hint="@string/frais_petit_dejeuner"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/editRepasMidi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:hint="@string/frais_repas_midi"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/editRepasSoir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:hint="@string/frais_repas_soir"
+            android:inputType="numberDecimal" />
+
+        <EditText
+            android:id="@+id/editHotel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:hint="@string/frais_hotel"
+            android:inputType="numberDecimal" />
+
+        <Button
+            android:id="@+id/btnEnregistrerFiche"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="@string/enregistrer" />
+
+    </LinearLayout>
+</ScrollView>

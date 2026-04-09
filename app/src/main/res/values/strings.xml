@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">GSB Frais Mobile</string>
+    <string name="email">Email</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="mes_fiches">Mes fiches</string>
+    <string name="ajouter_fiche">Ajouter une fiche</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="mois">Mois (YYYY-MM)</string>
+    <string name="frais_essence">Frais essence</string>
+    <string name="frais_petit_dejeuner">Frais petit déjeuner</string>
+    <string name="frais_repas_midi">Frais repas midi</string>
+    <string name="frais_repas_soir">Frais repas soir</string>
+    <string name="frais_hotel">Frais hôtel</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="retour">Retour</string>
+    <string name="charger">Chargement…</string>
+    <string name="aucune_fiche">Aucune fiche trouvée</string>
+    <string name="ajouter_hors_forfait">Ajouter un hors forfait</string>
+    <string name="type_consommation">Type de consommation</string>
+    <string name="date_depense">Date (YYYY-MM-DD)</string>
+    <string name="libelle">Libellé</string>
+    <string name="montant">Montant</string>
+    <string name="commentaire">Commentaire</string>
+    <string name="hors_forfaits">Hors forfaits</string>
+    <string name="aucun_hors_forfait">Aucun hors forfait</string>
+
+    <string name="espace_administrateur">Espace administrateur</string>
+    <string name="espace_comptable">Espace comptable</string>
+    <string name="fiches_transmises_a_traiter">Fiches transmises à traiter</string>
+    <string name="utilisateurs">Utilisateurs</string>
+    <string name="fiches_a_superviser">Fiches à superviser</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="role">Rôle</string>
+    <string name="creer_utilisateur">Créer utilisateur</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="valider">Valider</string>
+    <string name="refuser">Refuser</string>
+    <string name="aucune_fiche_admin">Aucune fiche à superviser</string>
+    <string name="aucune_fiche_comptable">Aucune fiche transmise à traiter</string>
+    <string name="commentaire_obligatoire">Commentaire obligatoire</string>
+    <string name="refuser_fiche">Refuser la fiche</string>
+
+    <string name="mois_obligatoire">Le mois est obligatoire.</string>
+    <string name="mois_format_invalide">Le mois doit être au format YYYY-MM.</string>
+    <string name="date_format_invalide">La date doit être au format YYYY-MM-DD.</string>
+    <string name="champs_obligatoires">Tous les champs obligatoires doivent être remplis.</string>
+    <string name="montant_invalide">Montant invalide.</string>
+    <string name="erreur_saisie">Erreur de saisie.</string>
+    <string name="fiche_creation_ok">Fiche créée avec succès.</string>
+    <string name="hors_forfait_ajout_ok">Hors forfait ajouté avec succès.</string>
+    <string name="erreur_creation_fiche">Erreur lors de la création de la fiche.</string>
+    <string name="erreur_ajout_hors_forfait">Erreur lors de l\'ajout du hors forfait.</string>
+
+    <string name="fiche_introuvable">Fiche introuvable.</string>
+    <string name="detail_mois">Mois : %1$s</string>
+    <string name="detail_montant">Montant total : %1$s €</string>
+    <string name="detail_statut">Statut : %1$s</string>
+    <string name="detail_commentaire_visiteur">Commentaire visiteur : %1$s</string>
+    <string name="detail_commentaire_comptable">Commentaire comptable : %1$s</string>
+    <string name="aucun_commentaire">Aucun</string>
+    <string name="fiche_brouillon_modifiable">Cette fiche est encore modifiable et peut être transmise.</string>
+    <string name="fiche_non_modifiable">Cette fiche n\'est plus modifiable.</string>
+    <string name="transmettre">Transmettre</string>
+    <string name="transmettre_fiche">Transmettre la fiche</string>
+    <string name="confirmation_transmission">Après transmission, la fiche ne pourra plus être modifiée depuis le mobile.</string>
+    <string name="fiche_transmise_ok">Fiche transmise avec succès.</string>
+    <string name="erreur_transmission_fiche">Erreur lors de la transmission de la fiche.</string>
+    <string name="erreur_json_detail_fiche">Erreur de lecture du détail de la fiche.</string>
+    <string name="erreur_reseau_detail_fiche">Erreur réseau sur le détail de la fiche.</string>
+    <string name="erreur_json_hors_forfaits">Erreur de lecture des hors forfaits.</string>
+    <string name="erreur_reseau_hors_forfaits">Erreur réseau sur les hors forfaits.</string>
+
+    <string name="acces_refuse">Accès refusé.</string>
+    <string name="tous_champs_obligatoires">Tous les champs sont obligatoires.</string>
+    <string name="utilisateur_cree">Utilisateur créé.</string>
+    <string name="utilisateur_supprime">Utilisateur supprimé.</string>
+    <string name="erreur_creation_utilisateur">Erreur lors de la création de l\'utilisateur.</string>
+    <string name="erreur_suppression_utilisateur">Erreur lors de la suppression de l\'utilisateur.</string>
+    <string name="erreur_json_admin_utilisateurs">Erreur de lecture des utilisateurs.</string>
+    <string name="erreur_reseau_admin_utilisateurs">Erreur réseau sur les utilisateurs.</string>
+    <string name="erreur_json_admin_fiches">Erreur de lecture des fiches côté administrateur.</string>
+    <string name="erreur_reseau_admin_fiches">Erreur réseau sur les fiches côté administrateur.</string>
+    <string name="erreur_json_comptable">Erreur de lecture des fiches côté comptable.</string>
+    <string name="erreur_reseau_comptable">Erreur réseau côté comptable.</string>
+    <string name="action_effectuee">Action effectuée.</string>
+    <string name="erreur_traitement">Erreur de traitement.</string>
+
+    <string name="visiteur_label">Visiteur : %1$s</string>
+    <string name="mois_label">Mois : %1$s</string>
+    <string name="montant_label">Montant : %1$s €</string>
+
+    <string-array name="roles_utilisateur">
+        <item>visiteur</item>
+        <item>comptable</item>
+        <item>administrateur</item>
+    </string-array>
+</resources>

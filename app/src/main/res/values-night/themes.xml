@@ -1,0 +1,3 @@
+<resources>
+    <style name="Base.Theme.GSBFraisMobile" parent="Theme.Material3.Light.NoActionBar" />
+</resources>
