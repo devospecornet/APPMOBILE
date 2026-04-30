@@ -2,4 +2,4 @@
 
 APK disponible ici :
 
-https://github.com/devospecornet/APPWEB/releases
+https://github.com/devospecornet/APPMOBILE/releases/tag/v1.0.0
