@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_app">#F4F7FB</color>
+    <color name="primary_blue">#1D4ED8</color>
+    <color name="primary_blue_dark">#1E40AF</color>
+    <color name="card_bg">#FFFFFFFF</color>
+    <color name="muted_text">#5B6472</color>
+    <color name="success_green">#15803D</color>
+    <color name="warning_orange">#C2410C</color>
+    <color name="danger_red">#B91C1C</color>
+    <color name="soft_blue">#DBEAFE</color>
+    <color name="soft_green">#DCFCE7</color>
+    <color name="soft_orange">#FFEDD5</color>
+    <color name="soft_red">#FEE2E2</color>
+</resources>
