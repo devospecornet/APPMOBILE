@@ -13,7 +13,7 @@ Points inclus :
 - visiteur : liste des fiches, détail, ajout fiche, ajout hors forfait, transmission
 - comptable : liste des fiches transmises, validation, refus avec commentaire
 - administrateur : supervision des fiches, validation, refus, suppression, gestion des utilisateurs
-- URL API conservée vers https://devospecornet.github.io/PORTFOLIO_BTS/assets/APK/GSBMobile.apk
+- Télécharger APK ici => https://devospecornet.github.io/PORTFOLIO_BTS/assets/APK/GSBMobile.apk
 
 
 ## URL d'API utilisée par l'application Android
