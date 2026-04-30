@@ -14,3 +14,25 @@ Points inclus :
 - comptable : liste des fiches transmises, validation, refus avec commentaire
 - administrateur : supervision des fiches, validation, refus, suppression, gestion des utilisateurs
 - URL API conservée vers https://ecornetgsb.fr/api/
+
+
+## URL d'API utilisée par l'application Android
+
+Le code Android pointe vers :
+
+```text
+https://ecornetgsb.fr/api/
+```
+
+https://ecornetgsb.fr/api/
+```
+
+
+avec ce JSON :
+
+```json
+{
+  "action": "transmettre",
+  "id_fiche": 123
+}
+```
