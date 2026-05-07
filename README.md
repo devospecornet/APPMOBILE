@@ -16,23 +16,3 @@ Points inclus :
 - Télécharger APK ici => https://devospecornet.github.io/PORTFOLIO_BTS/assets/APK/GSBMobile.apk
 
 
-## URL d'API utilisée par l'application Android
-
-Le code Android pointe vers :
-
-```text
-https://devospecornet.github.io/PORTFOLIO_BTS/assets/APK/GSBMobile.apk
-```
-
-https://devospecornet.github.io/PORTFOLIO_BTS/assets/APK/GSBMobile.apk
-```
-
-
-avec ce JSON :
-
-```json
-{
-  "action": "transmettre",
-  "id_fiche": 123
-}
-```
