@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.GSBFraisMobile" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorSecondary">@color/primary_blue_dark</item>
+        <item name="android:statusBarColor">@color/primary_blue_dark</item>
+        <item name="android:windowBackground">@color/bg_app</item>
+    </style>
+    <style name="Theme.GSBFraisMobile" parent="Base.Theme.GSBFraisMobile" />
+</resources>
